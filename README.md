@@ -1,2 +1,4 @@
 # hello-world
-just a preliminary comment
+Just a preliminary comment.
+
+AboutMe:  I use TiddlyWiki a lot.
