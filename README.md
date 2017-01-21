@@ -2,7 +2,7 @@
 Just a preliminary comment ... AboutMe:  I use TiddlyWiki a lot!
 
 Now it's time to start setting up some repositories for my TW files.
-But one initial hurdle is deciding if I should use a local Git desktop version that syncs back.
+But one initial hurdle is which Git desktop version that syncs back, to choose.
 
 
 For the moment ...
