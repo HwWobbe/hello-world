@@ -1,7 +1,11 @@
 # hello-world
 Just a preliminary comment ... AboutMe:  I use TiddlyWiki a lot!
 
-Now it's time to start setting up some repositories for my TW files.
+I am noticing that I can edit this content directly, but when I try to use the GitHub GUI, I seem to get a version that is out-of-date.
+
+Perhaps I should choose the Branch ... Pull work flow (instead of doing firect edits).
+
+Later it will be time to start setting up some repositories for my TW files.
 But one initial hurdle is which Git desktop version that syncs back, to choose.
 
 
