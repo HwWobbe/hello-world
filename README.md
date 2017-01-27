@@ -8,11 +8,13 @@ Current (novice) issues ...
 
 Perhaps I should choose the Branch ... Pull work flow (instead of doing firect edits).
 
-Later it will be time to start setting up some repositories for my TW files.
-But one initial hurdle is which Git desktop version that syncs back, to choose.
+* Later it will be time to start setting up some repositories for my TW files.
+* But one initial hurdle is which Git desktop version that syncs back, to choose.
 
 <hr>
 
 For the moment ...
 
-I am making a few related notes in the wiki and I am watching the reports of my activity to ensure that I have an adequate understanding of how to work in this environment.
+* I am making a few related notes in the wiki and I am watching the reports of my activity to ensure that I have an adequate understanding of how to work in this environment.
+
+<h1> heading test </h1>
