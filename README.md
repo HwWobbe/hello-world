@@ -2,7 +2,8 @@
 Just a preliminary comment ... 
 ... AboutMe:  I use TiddlyWiki a lot!
 
-I am noticing that I can edit this content directly, but when I try to use the GitHub GUI, I seem to get a version that is out-of-date.
+Current (novice) issues ...
+* I am noticing that I can edit this content directly, but when I try to use the GitHub GUI, I seem to get a version that is out-of-date.
 * ...
 
 Perhaps I should choose the Branch ... Pull work flow (instead of doing firect edits).
