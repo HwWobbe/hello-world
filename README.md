@@ -3,8 +3,7 @@ Just a preliminary comment ...
 ... AboutMe:  I use TiddlyWiki a lot!
 
 Current (novice) issues ...
-* I am noticing that I can edit this content directly, but when I try to use the GitHub GUI, I seem to get a version that is out-of-date.
-* setting up a new TW5 file to copy into this environment
+* Ive noticed that I can edit this content directly, but when I try to use the GitHub GUI, I seem to get a version that is out-of-date.
 * ...
 
 Perhaps I should choose the Branch ... Pull work flow (instead of doing firect edits).
