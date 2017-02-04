@@ -10,6 +10,7 @@ Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing 
 
 * Later it will be time to start setting up some repositories for my TW files.
 * But one initial hurdle is which Git desktop version that syncs back, to choose.
+* Check StackOverflow too
 
 <hr>
 
