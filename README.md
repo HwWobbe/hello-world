@@ -6,6 +6,7 @@ Current (novice) issues ...
 * I've noticed that I can edit this content directly, but when I try to use the GitHub GUI, I seem to get a version that is out-of-date.
 * Make sure to use local versions that sync (in case of CloudLoss)
 * For now, use the wiki(s) for "just text" to reduce frivolus Commits.
+* make a weekly Commit, if only as an activity indicator.
 * I have uploaded a file, but I am not sure where it went.
 * ...
 
