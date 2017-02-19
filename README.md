@@ -1,6 +1,6 @@
 # hello-world
 Just a preliminary comment ... 
-... AboutMe:  I use TiddlyWiki a lot!
+... AboutMe:  I use wiki(s) a lot; especvially TiddlyWik!
 
 Current (novice) issues ...
 * I've noticed that I can edit this content directly, but when I try to use the GitHub GUI, I seem to get a version that is out-of-date.
