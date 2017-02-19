@@ -8,6 +8,7 @@ Current (novice) issues ...
 * For now, use the wiki(s) for "just text" to reduce frivolus Commits.
 * make a weekly Commit, if only as an activity indicator.
 * I have uploaded a file, but I am not sure where it went.
+2017-02-19: Added a picture
 * ...
 
 Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing direct edits).
