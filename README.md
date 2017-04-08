@@ -9,7 +9,6 @@ Current (novice) issues ...
 * Make sure to use local versions that sync (in case of CloudLoss)
 * make a weekly Commit, if only as an activity indicator.
 * 2017-02-19: Added a picture
-* ...
 
 Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing direct edits).
 
