@@ -20,8 +20,8 @@ Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing 
 <hr>
 <h2> About me ...</h2>
 
-Just a preliminary comment ... 
-... AboutMe:  I use wiki(s) a lot; especvially TiddlyWik!
+Just a preliminary comment ... <br>
+... I use wiki(s) a lot; especvially TiddlyWik!
 
 <hr>
 <h2> learning activities ... </h2>
