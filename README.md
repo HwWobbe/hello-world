@@ -20,9 +20,13 @@ Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing 
 * Later it will be time to start setting up some repositories for my TW files.
 
 <hr>
-<h2> heading test </h2>
+<h2> learning activities ... </h2>
 
 * hoping to learn from ...
 * https://github.com/OctoWiki/octowiki.github.io
+
+<hr>
+<h2> heading test </h2>
+
 * starting to test a bit of styling for this environment
 * ...
