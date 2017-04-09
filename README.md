@@ -15,8 +15,8 @@ Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing 
 Just a preliminary comment ... <br>
 ... I use wiki(s) a lot; especvially TiddlyWik!
 
-<h3> ... </h3>
-Current (novice) issues ...
+<h3> Current (novice) issues ... </h3>
+
 * For now, use the wiki(s) for "just text" to reduce frivolus Commits.
 * research how to host a TW file here.
 * stay focused on Content creation (not program enhanxcements)
