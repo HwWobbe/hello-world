@@ -1,14 +1,5 @@
 # hello-world
 
-Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing direct edits).
-
-* Step through the tutorial again, making careful procedure notes
-* I've noticed I can edit this content directly, but when I try to use the GitHub GUI, I get a version that is out-of-date.
-* But one initial hurdle is which Git desktop version that syncs back, to choose.
-* Check StackOverflow too
-* I have uploaded a file, but I am not sure where it went.
-* Later it will be time to start setting up some repositories for my TW files.
-
 <hr>
 <h2> About me ...</h2>
 
@@ -29,6 +20,15 @@ Just a preliminary comment ... <br>
 
 * hoping to learn from ...
 * https://github.com/OctoWiki/octowiki.github.io
+
+Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing direct edits).
+
+* Step through the tutorial again, making careful procedure notes
+* I've noticed I can edit this content directly, but when I try to use the GitHub GUI, I get a version that is out-of-date.
+* But one initial hurdle is which Git desktop version that syncs back, to choose.
+* Check StackOverflow too
+* I have uploaded a file, but I am not sure where it went.
+* Later it will be time to start setting up some repositories for my TW files.
 
 <hr>
 <h2> heading test </h2>
