@@ -28,5 +28,5 @@ Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing 
 <hr>
 <h2> heading test </h2>
 
-* starting to test a bit of styling for this environment
+* starting to add a bit of styling for this environment
 * ...
