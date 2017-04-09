@@ -1,13 +1,5 @@
 # hello-world
 
-Current (novice) issues ...
-* For now, use the wiki(s) for "just text" to reduce frivolus Commits.
-* research how to host a TW file here.
-* stay focused on Content creation (not program enhanxcements)
-* Make sure to use local versions that sync (in case of CloudLoss)
-* make a weekly Commit, if only as an activity indicator.
-* 2017-02-19: Added a picture
-
 Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing direct edits).
 
 * Step through the tutorial again, making careful procedure notes
@@ -22,6 +14,15 @@ Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing 
 
 Just a preliminary comment ... <br>
 ... I use wiki(s) a lot; especvially TiddlyWik!
+
+<h3> ... </h3>
+Current (novice) issues ...
+* For now, use the wiki(s) for "just text" to reduce frivolus Commits.
+* research how to host a TW file here.
+* stay focused on Content creation (not program enhanxcements)
+* Make sure to use local versions that sync (in case of CloudLoss)
+* make a weekly Commit, if only as an activity indicator.
+* 2017-02-19: Added a picture
 
 <hr>
 <h2> learning activities ... </h2>
