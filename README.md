@@ -5,7 +5,7 @@ This "Hello-world repo(ository) contains my initial activities at GitHub.
 <h2> About me ...</h2>
 
 Just a preliminary comment ... <br>
-... I use wiki(s) a lot; especvially TiddlyWik!
+... I use wiki(s) a LOT; especially TiddlyWik!
 
 <h3> Current (novice) issues ... </h3>
 
