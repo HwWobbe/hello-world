@@ -15,6 +15,7 @@ Just a preliminary comment ... <br>
 * stay focused on Content creation (not program enhanxcements)
 * Make sure to use local versions that sync (in case of CloudLoss)
 * make a weekly Commit, if only as an activity indicator.
+* try linking directly to Wiki pages
 * 2017-02-19: Added a picture
 
 <hr>
