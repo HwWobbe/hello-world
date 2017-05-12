@@ -33,7 +33,7 @@ Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing 
 * Later it will be time to start setting up some repositories for my TW files.
 
 <hr>
-<h2> heading test </h2>
+<h2> Tests </h2>
 
-* starting to add a bit of styling for this environment
-* confirmed linking directly to Wiki pages works.
+* started adding a bit of styling for this environment via Headings
+* confirmed linking directly to Wiki pages works
