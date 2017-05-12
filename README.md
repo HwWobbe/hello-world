@@ -15,7 +15,6 @@ Just a preliminary comment ... <br>
 * stay focused on Content creation (not program enhanxcements)
 * Make sure to use local versions that sync (in case of CloudLoss)
 * make a weekly Commit, if only as an activity indicator.
-* try linking directly to Wiki pages.  Confirm this work.
 * 2017-02-19: Added a picture
 
 <hr>
@@ -37,4 +36,4 @@ Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing 
 <h2> heading test </h2>
 
 * starting to add a bit of styling for this environment
-* ...
+* confirmed linking directly to Wiki pages works.
