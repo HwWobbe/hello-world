@@ -15,7 +15,6 @@ Just a preliminary comment ... <br>
 * stay focused on Content creation (not program enhanxcements)
 * Make sure to use local versions that sync (in case of CloudLoss)
 * make a weekly Commit, if only as an activity indicator.
-* 2017-02-19: Added a picture
 
 <hr>
 <h2> learning activities ... </h2>
@@ -37,3 +36,4 @@ Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing 
 
 * started adding a bit of styling for this environment via Headings
 * confirmed linking directly to Wiki pages works
+* 2017-02-19: Added a picture
