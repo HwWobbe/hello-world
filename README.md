@@ -7,7 +7,7 @@ This "Hello-world repo(ository) contains my initial activities at GitHub.
 Just a preliminary comment ... <br>
 ... I use wiki(s) a LOT; especially TiddlyWik!
 
-<h3> Current (novice) issues ... </h3>
+<h3> Current (GIT novice) issues ... </h3>
 
 * For now, use the wiki(s) for "just text" to reduce frivolus Commits.
 * research how to host a TW file here.
