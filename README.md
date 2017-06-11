@@ -6,7 +6,7 @@ This "Hello-world repo(ository) contains my initial activities at GitHub.
 
 Just a preliminary comment ... <br>
 ... I use wiki(s) a LOT; especially TiddlyWik! 
-... testing http://debategraph.org/Stream.aspx?nid=463450&vt=bubble&dc=focus
+testing http://debategraph.org/Stream.aspx?nid=463450&vt=bubble&dc=focus
 
 <h3> Current (GIT novice) issues ... </h3>
 
