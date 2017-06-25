@@ -14,7 +14,6 @@ Just a preliminary comment ... <br>
 <h3> Current (GIT novice) issues ... </h3>
 
 * For now, use the wiki(s) for "just text" to reduce frivolus Commits.
-* research how to host a TW file here.
 * In the mean time, continue relying on DropBox & exploring other options.
 * stay focused on Content creation (not program enhanxcements)
 * Make sure to use local versions that sync (in case of CloudLoss)
