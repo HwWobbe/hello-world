@@ -6,10 +6,11 @@ This "Hello-world repo(ository) contains my initial activities at GitHub.
 
 Just a preliminary comment ... <br>
 .. I use wiki(s) a LOT; especially TiddlyWik! <br>
-.. testing ... <br>
-.... Diigo Outliners https://www.diigo.com/user/hanswobbe <br>
 .... PdWorks <br>
+.. testing ... <br>
 .... http://debategraph.org/Stream.aspx?nid=463450&vt=bubble&dc=focus
+.... Diigo Outliners https://www.diigo.com/user/hanswobbe <br>
+
 
 <h3> Current (GIT novice) issues ... </h3>
 
