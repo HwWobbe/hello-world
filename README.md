@@ -19,6 +19,7 @@ Just a preliminary comment ... <br>
 * stay focused on Content creation (not program enhanxcements)
 * Make sure to use local versions that sync (in case of CloudLoss)
 * make a weekly Commit, if only as an activity indicator.
+* beginning to realize the omportance of entending this GitHub profile towards my goal of providing a central, reliable comprehensive introduction
 
 <hr>
 <h2> learning activities ... </h2>
