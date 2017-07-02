@@ -38,8 +38,4 @@ Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing 
 
 <hr>
 <h2> Tests </h2>
-
-* started adding a bit of styling for this environment via Headings
-* confirmed linking directly to Wiki pages works
-* 2017-05: inter-linking with DebateGraph
-* 2017-02-19: Added a picture
+Moved to the wiki.
