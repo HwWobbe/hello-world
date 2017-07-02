@@ -27,6 +27,7 @@ Just a preliminary comment ... <br>
 * hoping to learn from ...
 * https://github.com/OctoWiki/octowiki.github.io
 
+<h3> GitGub </h3>
 Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing direct edits).
 
 * Step through the tutorial again, making careful procedure notes
