@@ -18,7 +18,7 @@ Just a preliminary comment ... <br>
 * In the mean time, continue relying on DropBox & exploring other options.
 * stay focused on Content creation (not program enhanxcements)
 * Make sure to use local versions that sync (in case of CloudLoss)
-* make a weekly Commit, if only as an activity indicator.
+* considering a daily Commit, if only to force focused attention (weekly Activity indicator)
 * beginning to realize the omportance of entending this GitHub profile towards my goal of providing a central, reliable comprehensive introduction
 
 <hr>
