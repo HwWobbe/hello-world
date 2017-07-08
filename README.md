@@ -16,7 +16,6 @@ Just a preliminary comment ... <br>
 * For now, use the wiki(s) for "just text" to reduce frivolus Commits.
 * In the mean time, continue relying on DropBox & exploring other options.
 * stay focused on Content creation (not program enhanxcements)
-* Make sure to use local versions that sync (in case of CloudLoss)
 * considering frequent Commits, if only to force focused attention (weekly Activity indicator)
 * beginning to realize the importance of extending this GitHub profile towards my goal of providing a central, reliable comprehensive introduction
 
