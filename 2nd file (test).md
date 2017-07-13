@@ -1,5 +1,5 @@
 ...spaceOverWrties
-* This material is not being displayed.
+* This material was not displayed until the file was named *.md.
 
 <hr>
 <h2> Tests </h2>
