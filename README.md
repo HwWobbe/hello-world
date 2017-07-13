@@ -33,7 +33,3 @@ Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing 
 * But one initial hurdle is which Git desktop version that syncs back, to choose.
 * I have uploaded a file, but I am not sure where it went.
 * Later it will be time to start setting up some repositories for my TW files.
-
-<hr>
-<h2> Tests </h2>
-Moved to the wiki.
