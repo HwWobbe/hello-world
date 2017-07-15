@@ -1,5 +1,5 @@
 # hello-world
-This "Hello-world repo(ository) contains my initial activities at GitHub.
+This "Hello-world repo(ository) contains my (slowly growing) activities at GitHub.
 
 <hr>
 <h2> About me ...</h2>
