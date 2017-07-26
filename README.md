@@ -9,6 +9,7 @@ Just a preliminary comment ... <br>
 .... PdWorks (especially for Tasks) <br>
 .... Diigo Outliners https://www.diigo.com/user/hanswobbe <br>
 .... http://debategraph.org/Stream.aspx?nid=463450&vt=bubble&dc=focus <br>
+.... link to mySchedudles
 .. It's way past time to update my image. <br>
 
 <h3> Current (GIT novice) issues ... </h3>
