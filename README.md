@@ -32,5 +32,4 @@ Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing 
 * Step through the tutorial again, making careful procedure notes
 * I've noticed I can edit this content directly, but when I try to use the GitHub GUI, I get a version that is out-of-date.
 * But one initial hurdle is which Git desktop version that syncs back, to choose.
-* I have uploaded a file, but I am not sure where it went.
 * Later it will be time to start setting up some repositories for my TW files.
