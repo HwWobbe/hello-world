@@ -5,7 +5,8 @@ This "Hello-world repo(ository) contains my (slowly growing) activities at GitHu
 <h2> About me ...</h2>
 
 Just a preliminary comment ... <br>
-.. I use wiki(s) a LOT; especially TiddlyWik! <br>
+.. I use ... <br>
+.... wiki(s) a LOT! (especially TiddlyWik) <br>
 .... PdWorks (especially for Tasks) <br>
 .... Diigo Outliners https://www.diigo.com/user/hanswobbe <br>
 .... http://debategraph.org/Stream.aspx?nid=463450&vt=bubble&dc=focus <br>
