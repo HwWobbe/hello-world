@@ -1,5 +1,5 @@
 # hello-world
-This "Hello-world repo(ository) started VERY slowly with just my activities at GitHub.  Now, I am preparing to use it as a personal portal to more of myu internet activities.
+This "Hello-world repo(ository) started VERY slowly with just my activities at GitHub.  Now, I am preparing to use it as a personal portal to more of my internet activities.
 
 <hr>
 <h2> About me ...</h2>
