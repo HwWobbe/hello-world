@@ -4,7 +4,7 @@ This "Hello-world repo(ository) started VERY slowly with just my activities at G
 <hr>
 <h2> About me ...</h2>
 
-Just a preliminary comment ... <br>
+Some preliminary comments ... <br>
 .. I use ... <br>
 .... wiki(s) a LOT! (especially TiddlyWik) <br>
 .... PdWorks (especially for Tasks) <br>
@@ -26,6 +26,7 @@ Just a preliminary comment ... <br>
 
 * hoping to learn from ...
 * https://github.com/OctoWiki/octowiki.github.io
+* planning to add some documentation regarding myWorkFlow.
 
 <h3> GitGub </h3>
 Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing direct edits).
