@@ -4,18 +4,8 @@ This "Hello-world repo(sitory) started VERY slowly with just my activities at Gi
 <hr>
 <h2> About me ...</h2>
 
-Some preliminary comments ... <br>
-.. I use ... <br>
-.... wiki(s) a LOT! (especially TiddlyWik) <br>
-.... PdWorks (especially for Tasks) <br>
-.... Diigo 
-...... Bookmarks (several thousands, all tagged consistently with myTW_ways) <br>
-...... Annotations (generally private, simply to avpid cluttering the views of others) <br>
-...... Outliners https://www.diigo.com/user/hanswobbe <br>
-.... http://debategraph.org/Stream.aspx?nid=463450&vt=bubble&dc=focus <br>
-.... link to mySchedudles <br>
-.... (Docs, ... )Google
-.. It's way past time to update my image. <br>
+* ...
+
 
 <h3> Current (GIT novice) issues ... </h3>
 
