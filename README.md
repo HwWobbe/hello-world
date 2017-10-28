@@ -9,7 +9,6 @@ This "Hello-world repo(sitory) started VERY slowly with just my activities at Gi
 
 <h3> Current (GIT novice) issues ... </h3>
 
-* For now, use the wiki(s) for "just text" to reduce frivolus Commits.  In the mean time, continue relying on DropBox & exploring other options (like DiiGo, given its Outliner capabilities)
 * I remain focused on Content creation (not program enhancements)
 * considering frequent Commits, if only to force focused attention (weekly Activity indicator)
 * beginning to realize the importance of extending this GitHub profile towards my goal of providing a central, reliable comprehensive introduction
