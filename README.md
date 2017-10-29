@@ -10,7 +10,7 @@ This "Hello-world repo(sitory) started VERY slowly with just my activities at Gi
 <h3> Current (GIT novice) issues ... </h3>
 
 * I remain focused on Content creation (not program enhancements)
-* considering frequent Commits, if only to force focused attention (weekly Activity indicator)
+* I perform weekly Commits, if only to force focused attention and serve as an activity indicator.
 * beginning to realize the importance of extending this GitHub profile towards my goal of providing a central, reliable comprehensive introduction
 
 <hr>
