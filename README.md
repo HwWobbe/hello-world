@@ -18,6 +18,7 @@ This "Hello-world repo(sitory) started VERY slowly with just my activities at Gi
 * hoping to learn from ...
 * https://github.com/OctoWiki/octowiki.github.io
 * planning to add some documentation regarding myWorkFlow.
+* re-edit
 
 <h3> GitGub </h3>
 Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing direct edits).
