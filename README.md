@@ -4,7 +4,7 @@ This "Hello-world repo(sitory) started VERY slowly with just my activities at Gi
 <hr>
 <h2> About me ...</h2>
 
-* Status: Traveling wit limited internet access for the rest of this month.
+* Status: Returned from a two week trip with limited internet access.
 * ... ( removed to https://github.com/HwWobbe/hello-world/wiki )
 
 
