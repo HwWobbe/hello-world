@@ -7,5 +7,5 @@
 <hr>
 <h2> Tests </h2>
 
-* try a Rull Request for End_notes.
+* try a Pull Request for End_notes.
 # Moved to the wiki.
