@@ -2,7 +2,7 @@
 
 * ...
 * This material was not displayed until the file was named *.md.
-* Consider the uses of multiple file (like this)
+* Consider the uses of multiple files (like this)
 
 <hr>
 <h2> Tests </h2>
