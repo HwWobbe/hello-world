@@ -7,5 +7,6 @@
 <hr>
 <h2> Tests </h2>
 
+* HTML formating seems to work.
 * try a Pull Request for End_notes.
 # Moved to the wiki.
