@@ -1,5 +1,5 @@
 # hello-world
-This "Hello-world repo(sitory) started VERY slowly with just my activities at GitHub.  Now, I am preparing to use it as a personal portal for more of my internet activities, as well as my rapidly growing intranet (that now includes RaspberryPi components as well as the usual mix of w-Intel, Android and iOS systems).
+This "Hello-world repo(sitory) started VERY slowly with just my activities at GitHub.  Now, I am using it as a personal portal for more of my internet activities, as well as my rapidly growing intranet (that now includes RaspberryPi components as well as the usual mix of w-Intel, Android and iOS systems).
 
 <hr>
 <h2> About me ...</h2>
