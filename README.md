@@ -4,6 +4,7 @@ This "Hello-world repo(sitory) started VERY slowly with just my activities at Gi
 <hr>
 <h2> About me ...</h2>
 
+* reviewing https://github.com/topics
 * evaluating this Site's Gist capability 
 * Completed my FireFox upgrade.
 * ... ( removed to https://github.com/HwWobbe/hello-world/wiki )
