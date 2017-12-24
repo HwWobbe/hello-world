@@ -1,4 +1,4 @@
-# hello-world
+# HelloWorld
 This "Hello-world repo(sitory) started VERY slowly with just my activities at GitHub.  Now, I am using it as a personal portal for more of my internet activities, as well as my rapidly growing intranet (that now includes RaspberryPi components as well as the usual mix of w-Intel, Android and iOS systems).
 
 <hr>
@@ -17,7 +17,7 @@ This "Hello-world repo(sitory) started VERY slowly with just my activities at Gi
 * I am beginning to realize the importance of extending this GitHub profile towards my goal of providing a central, reliable comprehensive introduction
 
 <hr>
-<h2> learning activities ... </h2>
+<h2> Learning activities ... </h2>
 
 * hoping to learn from ...
 * https://github.com/OctoWiki/octowiki.github.io
