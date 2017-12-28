@@ -1,7 +1,9 @@
 ...spaceOverWrites
 
 * Looking to spawn a new branch that I can then merge via a PR.
-* ...
+* That seems to be an Option of the commit process.
+
+<hr>
 * This material was not displayed until the file was named *.md.
 * Consider the uses of multiple files (like this)
 
