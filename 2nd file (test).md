@@ -4,7 +4,7 @@
 * That seems to be an Option of the commit process.
 
 <hr>
-* This material was not displayed until the file was named *.md. <br>
+* This material was not displayed until the file was named *.md. ( md = Mark Down ?) <br>
 * Consider the uses of multiple files (like this)
 
 <hr>
