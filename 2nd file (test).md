@@ -8,6 +8,7 @@
 
 * This material was not displayed until the file was named *.md. ( md = Mark Down ?) <br>
 * Consider the uses of multiple files (like this)
+* UL bullets need a preceding NL
 
 <hr>
 <h2> Tests </h2>
