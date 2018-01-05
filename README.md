@@ -6,7 +6,7 @@ This "Hello-world repo(sitory) started VERY slowly with just my activities at Gi
 
 * Reviewing https://github.com/topics.
 * Evaluating this Site's Gist capabilities for my Status comments.
-* Planning to connect my GitHub & LinkedIn pages.
+* Planning to connect my GitHub & LinkedIn pages ( testing ... https://www.linkedin.com/in/hans-wobbe-37634a/ )
 * ... ( removed to https://github.com/HwWobbe/hello-world/wiki )
 
 
