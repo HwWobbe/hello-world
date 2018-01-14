@@ -12,6 +12,7 @@ This "Hello-world" repo(sitory) started VERY slowly with just my activities at G
 * starting to bookmark TwCommunityThreads that I find helpful
 * I perform weekly Commits, if only to force focused attention and serve as an activity indicator.
 * I am beginning to realize the importance of extending this GitHub profile towards my goal of providing a central, reliable comprehensive introduction
+* I am considering how to use this environment as part of my MetaData & AiKnowledge base.
 
 <hr>
 <h2> Learning activities ... </h2>
