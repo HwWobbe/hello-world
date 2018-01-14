@@ -1,4 +1,5 @@
 <h3> GitHub </h3>
+
 * Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing direct edits).
 * I perform weekly Commits, if only to force focused attention and serve as an activity indicator.
 * I am beginning to realize the importance of extending this GitHub profile towards my goal of providing a central, reliable comprehensive introduction
