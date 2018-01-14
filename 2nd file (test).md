@@ -13,7 +13,6 @@ Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing 
 
 * Looking to spawn a new branch that I can then merge via a PR.
 * That seems to be an Option of the commit process.
-* ...
 
 <hr>
 
