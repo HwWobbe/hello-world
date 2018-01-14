@@ -9,7 +9,7 @@ This "Hello-world" repo(sitory) started VERY slowly with just my activities at G
 <h3> Current (GIT novice) issues ... </h3>
 
 * Reviewing https://github.com/topics.
-* starting to bookmark TwCommunityTreads that I find helpful
+* starting to bookmark TwCommunityThreads that I find helpful
 * I perform weekly Commits, if only to force focused attention and serve as an activity indicator.
 * I am beginning to realize the importance of extending this GitHub profile towards my goal of providing a central, reliable comprehensive introduction
 
