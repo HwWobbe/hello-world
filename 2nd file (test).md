@@ -1,6 +1,5 @@
 <h3> GitHub </h3>
-Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing direct edits).
-
+* Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing direct edits).
 * I perform weekly Commits, if only to force focused attention and serve as an activity indicator.
 * I am beginning to realize the importance of extending this GitHub profile towards my goal of providing a central, reliable comprehensive introduction
 * Step through the tutorial again, making careful procedure notes
@@ -24,4 +23,5 @@ Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing 
 
 * HTML formating seems to work.
 * try a Pull Request for End_notes.
+# 2018-01-14: Graduated to "Git Beginner" from "Git Novice" by making more extensive use of PRs.
 # Moved to the wiki.
