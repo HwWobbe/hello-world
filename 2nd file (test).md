@@ -24,5 +24,5 @@
 
 * HTML formating seems to work.
 * try a Pull Request for End_notes.
-## 2018-01-14: Graduated to "Git Beginner" from "Git Novice" by making more extensive use of PRs.
-# Moved to the wiki.
+### 2018-01-14: Graduated to "Git Beginner" from "Git Novice" by making more extensive use of PRs.
+## Moved to the wiki.
