@@ -16,7 +16,7 @@ Transitions during a 40+ year career ...
 * ... > 
 * Retirement
 
-<h3> Current (GIT novice) issues ... </h3>
+<h3> Current (GIT Beginner) issues ... </h3>
 
 * Reviewing https://github.com/topics. ( Try using more rawHtml in this environment. )
 * starting to bookmark TwCommunityThreads that I find helpful
