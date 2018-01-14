@@ -14,7 +14,7 @@ Transitions during a 40+ year career ...
 * Special Projects Change Agent >
 * founder & CEO >
 * ... > Summarized best @ LinkedIn > https://www.linkedin.com/in/hans-wobbe-37634a/
-* Retirement
+* ... > Retirement
 
 <h3> Current (GIT Beginner) issues ... </h3>
 
