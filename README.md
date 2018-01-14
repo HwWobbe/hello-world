@@ -20,13 +20,3 @@ This "Hello-world" repo(sitory) started VERY slowly with just my activities at G
 * ... ( removed to https://github.com/HwWobbe/hello-world/wiki )
 * hoping to learn from ...
 * https://github.com/OctoWiki/octowiki.github.io
-
-<h3> GitHub </h3>
-Perhaps I should choose the Branch ... Merge ... PR work flow (instead of doing direct edits).
-
-* I perform weekly Commits, if only to force focused attention and serve as an activity indicator.
-* I am beginning to realize the importance of extending this GitHub profile towards my goal of providing a central, reliable comprehensive introduction
-* Step through the tutorial again, making careful procedure notes
-* I've noticed I can edit this content directly, but when I try to use the GitHub GUI, I get a version that is out-of-date.
-* But one initial hurdle is which Git desktop version that syncs back, to choose.
-* Later it will be time to start setting up some repositories for my TW files.
