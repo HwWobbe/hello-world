@@ -4,7 +4,8 @@ This "Hello-world" repo(sitory) started VERY slowly with just my activities at G
 <hr>
 <h2> About me ...</h2>
 
-* Transitions over a 40 year + career ...
+Transitions over a 40 year + career ...
+
 * Programmer >
 * Technical Sales & Sales Management > 
 * Consulting > 
