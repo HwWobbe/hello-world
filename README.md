@@ -16,7 +16,7 @@ This "Hello-world" repo(sitory) started VERY slowly with just my activities at G
 <hr>
 <h2> Learning activities ... </h2>
 
-* planning to add some documentation regarding myWorkFlow(s).
+* Planning to add some documentation regarding myWorkFlow(s).
 * Planning to connect my GitHub & LinkedIn pages ( testing ... https://www.linkedin.com/in/hans-wobbe-37634a/ )
 * ... ( removed to https://github.com/HwWobbe/hello-world/wiki )
 * hoping to learn from ...
