@@ -4,9 +4,7 @@ This "Hello-world repo(sitory) started VERY slowly with just my activities at Gi
 <hr>
 <h2> About me ...</h2>
 
-* Planning to connect my GitHub & LinkedIn pages ( testing ... https://www.linkedin.com/in/hans-wobbe-37634a/ )
-* ... ( removed to https://github.com/HwWobbe/hello-world/wiki )
-
+* ...
 
 <h3> Current (GIT novice) issues ... </h3>
 
@@ -18,6 +16,8 @@ This "Hello-world repo(sitory) started VERY slowly with just my activities at Gi
 <hr>
 <h2> Learning activities ... </h2>
 
+* Planning to connect my GitHub & LinkedIn pages ( testing ... https://www.linkedin.com/in/hans-wobbe-37634a/ )
+* ... ( removed to https://github.com/HwWobbe/hello-world/wiki )
 * hoping to learn from ...
 * https://github.com/OctoWiki/octowiki.github.io
 * planning to add some documentation regarding myWorkFlow.
