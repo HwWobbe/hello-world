@@ -13,7 +13,7 @@ Transitions during a 40+ year career ...
 * Executive (IPO experience) > 
 * Special Projects Change Agent >
 * founder & CEO >
-* ... > Summarized best @ LinkedIn
+* ... > Summarized best @ LinkedIn > https://www.linkedin.com/in/hans-wobbe-37634a/
 * Retirement
 
 <h3> Current (GIT Beginner) issues ... </h3>
@@ -26,7 +26,7 @@ Transitions during a 40+ year career ...
 <h2> Learning activities ... </h2>
 
 * Planning to add some documentation regarding myWorkFlow(s).
-* Planning to connect my GitHub & LinkedIn pages ( testing ... https://www.linkedin.com/in/hans-wobbe-37634a/ )
+* Planning to connect my GitHub & LinkedIn pages ( testing ... )
 * ... ( removed to https://github.com/HwWobbe/hello-world/wiki )
 * hoping to learn from ...
 * https://github.com/OctoWiki/octowiki.github.io
