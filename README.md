@@ -4,7 +4,7 @@ This "Hello-world" repo(sitory) started VERY slowly with just my activities at G
 <hr>
 <h2> About me ...</h2>
 
-* I use TiddlyWiki ... a LOT!
+* I use TiddlyWiki ... a LOT!  I also use other Tools (that show what I do and how I do it).
 
 Transitions during a 40+ year career ...
 
