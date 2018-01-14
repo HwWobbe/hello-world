@@ -10,7 +10,7 @@ This "Hello-world" repo(sitory) started VERY slowly with just my activities at G
 
 * Reviewing https://github.com/topics. ( Try using more rawHtml in this environment. )
 * starting to bookmark TwCommunityThreads that I find helpful
-* I am considering how to use this environment as part of my MetaData & AiKnowledge base.
+* I am considering how to use this environment as part of my MetaData & AI.KnowledgeHw base.
 
 <hr>
 <h2> Learning activities ... </h2>
