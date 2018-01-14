@@ -26,7 +26,6 @@ Transitions during a 40+ year career ...
 <h2> Learning activities ... </h2>
 
 * Planning to add some documentation regarding myWorkFlow(s).
-* Planning to connect my GitHub & LinkedIn pages ( testing ... )
 * ... ( removed to https://github.com/HwWobbe/hello-world/wiki )
 * hoping to learn from ...
 * https://github.com/OctoWiki/octowiki.github.io
