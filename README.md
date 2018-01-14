@@ -4,7 +4,15 @@ This "Hello-world" repo(sitory) started VERY slowly with just my activities at G
 <hr>
 <h2> About me ...</h2>
 
-* ...
+* Transitions over a 40 year + career ...
+* Programmer >
+* Technical Sales & Sales Management > 
+* Consulting > 
+* Banking technologist > 
+* Executive (IPO experience) > 
+* Special Projects Change Agent >
+* founder & CEO >
+* ... > Retirement
 
 <h3> Current (GIT novice) issues ... </h3>
 
