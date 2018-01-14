@@ -13,7 +13,8 @@ Transitions during a 40+ year career ...
 * Executive (IPO experience) > 
 * Special Projects Change Agent >
 * founder & CEO >
-* ... > Retirement
+* ... > 
+* Retirement
 
 <h3> Current (GIT novice) issues ... </h3>
 
