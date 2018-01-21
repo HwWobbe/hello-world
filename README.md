@@ -27,6 +27,7 @@ Transitions during a 40+ year career ...
 <hr>
 <h2> Learning activities ... </h2>
 
+* using debateGraph to accumulate reliable Views @ https://debategraph.org/Stream.aspx?nid=463450&vt=bubble&dc=focus
 * Planning to add some documentation regarding myWorkFlow(s).
 * ... ( removed to https://github.com/HwWobbe/hello-world/wiki )
 * hoping to learn from ...
