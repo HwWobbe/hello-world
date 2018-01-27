@@ -1,6 +1,13 @@
 # HelloWorld
 This "Hello-world" repo(sitory) started VERY slowly with just my activities at GitHub.  Now, it is progressing as I consider it as a personal portal for more of my internet activities, as well as my growing intranet (that now includes RaspberryPi components as well as the usual mix of w-Intel, Android and iOS systems).
 
+<h3> Current (GIT Beginner) issues ... </h3>
+
+* Announced imminent Dropbox changes require attention.
+* Reviewing https://github.com/topics. ( Try using more rawHtml in this environment. )
+* starting to bookmark TwCommunityThreads that I find helpful
+* I am considering how to use this environment as part of my MetaData & AI.KnowledgeHw base.
+
 <hr>
 <h2> About me ...</h2>
 
@@ -18,14 +25,6 @@ Transitions during a 40+ year career ...
 * ... > Summarized best @ LinkedIn > https://www.linkedin.com/in/hans-wobbe-37634a/
 * ... > Retirement
 
-<h3> Current (GIT Beginner) issues ... </h3>
-
-* Announced imminent Dropbox changes require attention.
-* Reviewing https://github.com/topics. ( Try using more rawHtml in this environment. )
-* starting to bookmark TwCommunityThreads that I find helpful
-* I am considering how to use this environment as part of my MetaData & AI.KnowledgeHw base.
-
-<hr>
 <h2> Learning activities ... </h2>
 
 * using debateGraph to accumulate reliable Views @ ...
