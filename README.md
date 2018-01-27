@@ -4,7 +4,7 @@ This "Hello-world" repo(sitory) started VERY slowly with just my activities at G
 <h3> Current (GIT Beginner) issues ... </h3>
 
 * Announced imminent Dropbox changes require attention.
-* Reviewing https://github.com/topics. ( Try using more rawHtml in this environment. )
+* Reviewing https://github.com/topics.
 * starting to bookmark TwCommunityThreads that I find helpful
 * I am considering how to use this environment as part of my MetaData & AI.KnowledgeHw base.
 
@@ -34,3 +34,4 @@ Transitions during a 40+ year career ...
 * hoping to learn from ...
 * https://github.com/OctoWiki/octowiki.github.io
 * http://tiddlytools.github.io/InsideTW/
+* Try using more rawHtml in this environment.
