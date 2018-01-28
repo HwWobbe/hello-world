@@ -21,7 +21,7 @@ Transitions during a 40+ year career ...
 * Banking technologist ( Senior Management ) > 
 * Executive (IPO experience) > 
 * Special Projects Change Agent >
-* founder & CEO >
+* Founder & CEO >
 * ... > Summarized best @ LinkedIn > https://www.linkedin.com/in/hans-wobbe-37634a/
 * ... > Retirement
 
