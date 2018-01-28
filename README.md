@@ -22,8 +22,9 @@ Transitions during a 40+ year career ...
 * Executive (IPO experience) > 
 * Special Projects Change Agent >
 * Founder & CEO >
-* ... > Summarized best @ LinkedIn > https://www.linkedin.com/in/hans-wobbe-37634a/
 * ... > Retirement
+
+... summarized best @ LinkedIn > https://www.linkedin.com/in/hans-wobbe-37634a/.
 
 <h2> Learning activities ... </h2>
 
