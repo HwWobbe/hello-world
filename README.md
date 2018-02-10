@@ -28,7 +28,8 @@ Transitions during a 40+ year career ...
 
 <h2> Learning activities ... </h2>
 
-* using debateGraph to accumulate reliable Facts to support emerging Views @ https://debategraph.org/Stream.aspx?nid=463450&vt=bubble&dc=focus
+* using debateGraph to accumulate reliable Facts to support emerging Views @ ...
+* ... https://debategraph.org/Stream.aspx?nid=463450&vt=bubble&dc=focus
 * Planning to add some documentation regarding myWorkFlow(s).
 <hr>
 
