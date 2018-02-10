@@ -24,8 +24,8 @@ Transitions during a 40+ year career ...
 * Founder & CEO >
 * ... > Retirement
 
-... work is summarized best @ LinkedIn > https://www.linkedin.com/in/hans-wobbe-37634a/.
-... play is best summarized via http://www.flickriver.com/photos/hwo/popular-interesting/
+<br> .. work is summarized best @ LinkedIn > https://www.linkedin.com/in/hans-wobbe-37634a/
+<br> .. play is best summarized via http://www.flickriver.com/photos/hwo/popular-interesting/
 
 <h2> Learning activities ... </h2>
 
