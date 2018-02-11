@@ -5,7 +5,8 @@ This "Hello-world" repo(sitory) started VERY slowly with just my activities at G
 
 * Announced imminent Dropbox changes require attention.
 * Reviewing https://github.com/topics.
-* starting to bookmark TwCommunityThreads that I find helpful (but in Dynalist @ https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB)
+* starting to bookmark TwCommunityThreads that I find helpful ...
+* ... (but in Dynalist @ https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB)
 * I am considering how to use this environment as part of my MetaData & AI.KnowledgeHw base.
 
 <hr>
