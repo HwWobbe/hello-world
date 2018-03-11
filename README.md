@@ -43,3 +43,16 @@ Transitions during a 40+ year career ...
 * test with a simple <a ...
 * add convenient links to the W3C reference site
 
+longer term interests consist of ...
+
+    Pattern recognition and Generalization since 1963.
+    Photography
+    Computer applications since 1967.
+    Arrays & APL (programming language) since 1972.
+    Financial Services since 1979.
+    Telco and Postal data since 1992.
+    Real Estate since 1994.
+    Wiki software uses since 1995.
+        TiddlyWiki
+            Ajax (programming)
+    Electoral Systems since 1997.
