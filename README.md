@@ -12,7 +12,7 @@ This "Hello-world" repo(sitory) started VERY slowly with just my activities at G
 <hr>
 <h2> About me ...</h2>
 
-I use TiddlyWiki ... a LOT!  I also use other Tools (that show what I do, how I do it and, hence, who I am).
+I use TiddlyWiki (for Content)... a LOT!  I also use other Tools (that show what I do, how I do it and, hence, who I am).
 
 Transitions during a 40+ year career ...
 
@@ -24,6 +24,7 @@ Transitions during a 40+ year career ...
 * Special Projects Change Agent >
 * Founder & CEO >
 * ... > Retirement
+* ... > ... Clearly just a weekend hacker now.
 
 <br> .. work is summarized best @ LinkedIn > https://www.linkedin.com/in/hans-wobbe-37634a/
 <br> .. play is best summarized via http://www.flickriver.com/photos/hwo/popular-interesting/
