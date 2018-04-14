@@ -47,7 +47,7 @@ Transitions during a 40+ year career ...
 longer term interests consist of ...
 
     Pattern recognition and Generalization since 1963.
-    Photography
+    Photography (add links)
     Computer applications since 1967.
     Arrays & APL (A Programming Language) since 1972.
     Financial Services since 1979.
