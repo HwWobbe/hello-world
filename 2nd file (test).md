@@ -7,7 +7,7 @@
 * I've noticed I can edit this content directly, but when I try to use the GitHub GUI, I get a version that is out-of-date.
 * But one initial hurdle is which Git desktop version that syncs back, to choose.
 * Later it will be time to start setting up some repositories for my TW files.
-
+* the plan to migrate Core TW functions to gitHub will likely simplfy learning.
 
 ...spaceOverWrites
 
