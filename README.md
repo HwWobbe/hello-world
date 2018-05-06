@@ -4,7 +4,7 @@ This "Hello-world" repo(sitory) is morphing slowly with just my activities at Gi
 <h3> Current (GIT Beginner) issues ... </h3>
 
 * Reviewing https://github.com/topics.
-* Planning to merge github *.MDs via a PR
+* Planning to merge github *.MDs via a PR after Branch & Merge
 * starting to bookmark TwCommunityThreads that I find helpful ...
 * .. (but in Dynalist @ https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB) ..
 * .. and in DebateGraph where I use links back to DebateGraph maps for material that is not yet well structured.
