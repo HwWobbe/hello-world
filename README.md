@@ -9,6 +9,7 @@ This "Hello-world" repo(sitory) is morphing slowly with just my activities at Gi
 * .. (but in Dynalist @ https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB) ..
 * .. and in DebateGraph where I use links back to DebateGraph maps for material that is not yet well structured.
 * I am considering how to use this environment as part of my MetaData & AugmentedIntelligence.KnowledgeHw base.
+* .. at least for the DefData aspects
 
 <hr>
 <h2> About me ...</h2>
