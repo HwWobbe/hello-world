@@ -35,7 +35,7 @@ Transitions during a 40+ year career ...
 
 * using debateGraph to accumulate reliable Facts to support emerging Views @ ...
 * ... https://debategraph.org/Stream.aspx?nid=463450&vt=bubble&dc=focus
-* Planning to add some documentation regarding myWorkFlow(s).
+* Planning to document myWorkFlow(s).
 <hr>
 
 * ... ( removed to https://github.com/HwWobbe/hello-world/wiki )
