@@ -1,5 +1,5 @@
 # HelloWorld
-This "Hello-world" repo(sitory) is morphing slowly with just my activities at GitHub.  Now, it is progressing as I consider it as key personal portal for more of my internet activities, as well as my growing intranet (that now includes RaspberryPi components as well as the usual mix of w-Intel, Android and iOS systems).
+This "Hello-world" repo(sitory) is developing slowly with just my activities at GitHub.  Now, it is progressing as I consider it as key personal portal for more of my internet activities, as well as my growing intranet (that now includes RaspberryPi components as well as the usual mix of w-Intel, Android and iOS systems).
 
 <h3> Current (GIT noviceUser ) issues ... </h3>
 
