@@ -35,7 +35,8 @@ Transitions during a 40+ year career ...
 
 * using debateGraph to accumulate reliable Facts to support emerging Views @ ...
 * ... https://debategraph.org/Stream.aspx?nid=463450&vt=bubble&dc=focus
-* Planning to refine and document myWorkFlow(s).
+* Planning to extend, refine and document myWorkFlow(s).
+* ... hoping Scotiabank's use of GitHub will advance myBankingCode
 <hr>
 
 * ... ( removed to https://github.com/HwWobbe/hello-world/wiki )
