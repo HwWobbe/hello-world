@@ -37,6 +37,7 @@ Transitions during a 40+ year career ...
 * ... https://debategraph.org/Stream.aspx?nid=463450&vt=bubble&dc=focus
 * Planning to extend, refine and document myWorkFlow(s).
 * ... hoping Scotiabank's use of GitHub will advance myBankingCode
+* consider the new Profile stickie.
 <hr>
 
 * ... ( removed to https://github.com/HwWobbe/hello-world/wiki )
