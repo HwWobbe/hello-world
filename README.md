@@ -60,6 +60,6 @@ longer-term interests consist of ...
     Telco and Postal data since 1992.
     Real Estate since 1994.
     Wiki software uses since 1995.
-        TiddlyWiki
-            Ajax (programming)
+      TiddlyWiki
+        Ajax (programming)
     Electoral Systems since 1997.
