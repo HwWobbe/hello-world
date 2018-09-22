@@ -55,6 +55,7 @@ longer-term interests consist of ...
     Computer applications since 1967.
     Arrays & APL (A Programming Language) since 1972.
     Financial Services since 1979.
+    Hypertext since 1987 ( ASCII file ; Hufman Run Length Encoding ; ( PHP, C2, MeatBall, OddMuse, TiddlyWiki ):Wikis 
     Telco and Postal data since 1992.
     Real Estate since 1994.
     Wiki software uses since 1995.
