@@ -33,6 +33,7 @@ Transitions during a 40+ year career ...
 
 <h2> Learning activities ... </h2>
 
+* using Twitter to identify emotional Topics
 * using debateGraph to accumulate reliable Facts to support emerging Views @ ...
 * ... https://debategraph.org/Stream.aspx?nid=463450&vt=bubble&dc=focus
 * Planning to extend, refine and document myWorkFlow(s).
