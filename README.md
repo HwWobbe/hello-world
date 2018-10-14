@@ -1,10 +1,11 @@
 # HelloWorld
-This "Hello-world" repo(sitory) is developing slowly with just my activities at GitHub.  Now, it is progressing as I consider it a key personal portal for more of my internet activities, as well as my growing intranet (that now includes RaspberryPi components as well as the usual mix of w-Intel, Android and iOS systems).
+This "Hello-world" repo(sitory) is developing slowly with just my activities at GitHub.  Now, it is progressing as I consider it a key personal portal for more of my internet activities, as well as my growing intranet.
 
 <h3> Current (GIT noviceUser ) issues ... </h3>
 
 * Reviewing https://github.com/topics.
 * Planning to merge github *.MDs via a PR after Branch & Merge
+* including RaspberryPi components as well as the usual mix of w-Intel, Android and iOS systems, in my Lan
 * starting to bookmark TwCommunityThreads that I find helpful ...
 * ... (but in Dynalist @ https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB) ...
 * ... and in DebateGraph where I use links back to DebateGraph maps for material that is not yet well structured.
