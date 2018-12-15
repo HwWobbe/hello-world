@@ -1,5 +1,5 @@
 # HelloWorld
-This "Hello-world" repo(sitory) is developing slowly with just my activities at GitHub. In this context, "slowly" is quantified by the "controbutions this year" graphic that is build by GitHib.
+This "Hello-world" repo(sitory) is developing slowly with just my activities at GitHub. In this context, "slowly" is quantified by the "contributions in the last year" graphic that is build by GitHib.
 
 Next, it will progress more quickly as I consider it a key personal portal for more of my internet activities, as well as my growing intranet.
 
