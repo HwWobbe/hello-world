@@ -32,7 +32,7 @@ Transitions during a 40+ year career ...
 * ... > ... Clearly just a weekend hacker now.
 
 <br> .. work is summarized best @ LinkedIn > https://www.linkedin.com/in/hans-wobbe-37634a/
-<br> .. chats & Toics are available via twitter > https://twitter.com/HansWobbe
+<br> .. chats & Topics are available via twitter > https://twitter.com/HansWobbe
 <br> .. play is best summarized via http://www.flickriver.com/photos/hwo/popular-interesting/
 
 <h2> Learning activities ... </h2>
