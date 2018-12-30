@@ -15,26 +15,6 @@ Next, it will progress more quickly as I consider it a key personal portal for m
 * .. at least for the DefData aspects
 
 <hr>
-<h2> About me ...</h2>
-
-I use TiddlyWiki (for Content)... a LOT!  I also use other Tools (that show what I do, how I do it and, hence, who I am).
-
-Transitions during a 40+ year career ...
-
-* Programmer >
-* Technical Sales & Sales Management > 
-* Consulting > 
-* Banking technologist ( Senior Management ) > 
-* Executive (IPO experience) > 
-* Special Projects Change Agent >
-* Founder & CEO >
-* ... > Retirement
-* ... > ... Clearly just a weekend hacker now.
-
-<br> .. work is summarized best @ LinkedIn > https://www.linkedin.com/in/hans-wobbe-37634a/
-<br> .. chats & Topics are available via twitter > https://twitter.com/HansWobbe
-<br> .. play is best summarized via http://www.flickriver.com/photos/hwo/popular-interesting/
-
 <h2> Learning activities ... </h2>
 
 * using Twitter to identify emotional Topics
