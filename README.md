@@ -5,7 +5,7 @@ Next, it will progress more quickly as I consider it a key personal portal for m
 
 <h3> Current (GIT noviceUser ) issues ... </h3>
 
-jpoining https://github.com/datafix-com/HelloWorld
+* joining https://github.com/datafix-com/HelloWorld
 * Reviewing https://github.com/topics.
 * Planning to merge github *.MDs via a PR after Branch & Merge
 * including RaspberryPi components as well as the usual mix of w-Intel, Android and iOS systems, in my Lan
