@@ -8,6 +8,7 @@ Next, it will progress more quickly as I consider it a key personal portal for m
 * joining https://github.com/datafix-com/HelloWorld
 * Reviewing https://github.com/topics.
 * Planning to merge github *.MDs via a PR after Branch & Merge
+* Integrating the use of StackEdit
 * including RaspberryPi components as well as the usual mix of w-Intel, Android and iOS systems, in my Lan
 * starting to bookmark TwCommunityThreads that I find helpful ...
 * .. (but in Dynalist @ https://dynalist.io/d/_Xd3otdU1KRsesIKNqQfSBBB) ...
