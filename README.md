@@ -5,6 +5,7 @@ Next, it will progress more quickly as I consider it a key personal portal for m
 
 <h3> Current (GIT noviceUser ) issues ... </h3>
 
+* establish project objective(s)
 * joining https://github.com/datafix-com/HelloWorld
 * Reviewing https://github.com/topics.
 * Planning to merge github *.MDs via a PR after Branch & Merge
