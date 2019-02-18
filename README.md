@@ -53,3 +53,5 @@ longer-term interests ...
       TiddlyWiki
         Ajax (programming)
     Electoral Systems since 1997.
+    
+ * What causes the preceding monospace style?  (Likely the leading spaces)
