@@ -5,7 +5,7 @@ Next, it will progress more quickly as I consider it a key personal portal for m
 
 <h3> Current (GIT noviceUser ) issues ... </h3>
 
-* establish project objective(s)
+* extend project objective(s)
 * maintaing a PulseH indicator at GitHub
 * * * the "Artic Code Vault Contributor" badge provides useful reference links
 * * this will likely deprecate the FrHwo indicator
