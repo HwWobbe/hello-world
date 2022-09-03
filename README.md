@@ -5,6 +5,7 @@ Next, it will progress more quickly as I consider it a key personal portal for m
 
 <h3> Current (GIT noviceUser ) issues ... </h3>
 
+* convert to MAIN from MASTER
 * extend project objective(s)
 * maintaing a PulseH indicator at GitHub
 * * * the "Artic Code Vault Contributor" badge provides useful reference links
