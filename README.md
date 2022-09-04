@@ -28,6 +28,7 @@ Next, it will progress more quickly as I consider it a key personal portal for m
 <h2> Learning activities ... </h2>
 
 * using Twitter to identify emotional Topics
+* * integrate or interface yep.go 
 * using debateGraph to accumulate reliable Facts to support emerging Views @ ...
 * ... https://debategraph.org/Stream.aspx?nid=463450&vt=bubble&dc=focus
 * Planning to extend, refine and document myWorkFlow(s).
