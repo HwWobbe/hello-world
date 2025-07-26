@@ -61,3 +61,25 @@ longer-term interests ...
     Electoral Systems since 1997.
     
  * What causes the preceding monospace style?  (Likely the leading spaces)
+
+## Google Keep Integration
+
+This repository now includes a small Python script, `google_keep_tags.py`, which
+can add labels to notes in Google Keep. It relies on the open source
+[gkeepapi](https://github.com/kiwiz/gkeepapi) library.
+
+### Quick start
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Set your Google account credentials using environment variables:
+   ```bash
+   export KEEP_EMAIL="you@example.com"
+   export KEEP_PASSWORD="your-app-password"
+   ```
+3. Apply a label to a note:
+   ```bash
+   python google_keep_tags.py --note NOTE_ID --label MyLabel
+   ```
+The script will create the label if necessary and attach it to the note.
