@@ -5,7 +5,8 @@ Next, it will progress more quickly as I consider it a key personal portal for m
 
 <h3> Current (GIT noviceUser ) issues ... </h3>
 
-* craft an effective BUILD process
+- craft an effective BUILD process
+  - based of AiTechs
 * convert to MAIN from MASTER
 * * PRs may be used to pull content out of this repo
 * extend project objective(s)
